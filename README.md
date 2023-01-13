@@ -1,2 +1,2 @@
-# my-first-repo
-meu primeiro repositório
+Refazendo os passos sozinha, e...
+# DEU CERTO <3
